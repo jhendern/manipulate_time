@@ -1,0 +1,9 @@
+This is a simple python script to manipulate
+time.
+
+1) getting system clock time
+
+2) Return date object with same year, month and day.
+
+3) add or subtract X hours on the time
+
